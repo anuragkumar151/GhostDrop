@@ -1,4 +1,4 @@
-package com.deka.owlsend.entity;
+package com.anurag.owlsend.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

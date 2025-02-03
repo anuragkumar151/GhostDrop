@@ -1,4 +1,4 @@
-package com.deka.owlsend;
+package com.anurag.owlsend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

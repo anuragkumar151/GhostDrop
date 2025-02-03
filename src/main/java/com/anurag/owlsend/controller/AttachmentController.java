@@ -1,4 +1,4 @@
-package com.deka.owlsend.controller;
+package com.anurag.owlsend.controller;
 
 
 import java.util.List;
@@ -18,9 +18,9 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.deka.owlsend.ResponseData;
-import com.deka.owlsend.entity.Attachment;
-import com.deka.owlsend.service.AttachmentService;
+import com.anurag.owlsend.ResponseData;
+import com.anurag.owlsend.entity.Attachment;
+import com.anurag.owlsend.service.AttachmentService;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:3000") 

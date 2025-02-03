@@ -1,4 +1,4 @@
-package com.deka.owlsend;
+package com.anurag.owlsend;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

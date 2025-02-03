@@ -1,4 +1,4 @@
-package com.deka.owlsend.service;
+package com.anurag.owlsend.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.deka.owlsend.entity.Attachment;
-import com.deka.owlsend.repository.AttachmentRepository;
+import com.anurag.owlsend.entity.Attachment;
+import com.anurag.owlsend.repository.AttachmentRepository;
 
 @Service
 public class AttachmentServiceImpl implements AttachmentService{
